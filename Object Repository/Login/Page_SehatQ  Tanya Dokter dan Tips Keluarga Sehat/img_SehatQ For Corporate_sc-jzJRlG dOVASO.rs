@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_SehatQ For Corporate_sc-jzJRlG dOVASO</name>
+   <tag></tag>
+   <elementGuidId>771f3510-0094-4150-970b-accdc0943f6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.sc-jzJRlG.dOVASO</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popover-profile']/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e3f0a746-9fab-42d1-8e58-2c47b31de3a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Ryan Maulana</value>
+      <webElementGuid>9c3b4dc6-666b-44f5-a2a6-2d38474e81cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://static.sehatq.com/account/picture-empty/image-20220105-100052.png</value>
+      <webElementGuid>762b1459-91ac-4ee9-9eaa-970497857de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>b61c42af-45d3-4c2e-a4b1-60d3c4886c31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>30c4449e-7eb1-4fa8-938c-1ecb8921fd0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jzJRlG dOVASO</value>
+      <webElementGuid>140c0961-3b6f-41a5-bd9f-4573f04ddcce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popover-profile&quot;)/div[1]/img[@class=&quot;sc-jzJRlG dOVASO&quot;]</value>
+      <webElementGuid>a6e0e9c4-db15-4cba-aa18-f578933402cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popover-profile']/div/img</value>
+      <webElementGuid>872c2cc7-471e-4edf-bb2e-5cc6110ea792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Ryan Maulana']</value>
+      <webElementGuid>90332519-9e0d-47c3-84a6-10c622742310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/img</value>
+      <webElementGuid>665065df-2364-4bbb-8f2b-8331122231c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Ryan Maulana' and @src = 'https://static.sehatq.com/account/picture-empty/image-20220105-100052.png']</value>
+      <webElementGuid>eba533c6-8710-4ff3-a84f-3ce0975f7580</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

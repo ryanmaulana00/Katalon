@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit Profil</name>
+   <tag></tag>
+   <elementGuidId>2c9878f2-8714-4487-9f5a-3307664ddd0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.chakra-link.css-1pwr2bt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[2]/div[2]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>43420b29-a4bf-4929-9d04-7e5f163a340e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-link css-1pwr2bt</value>
+      <webElementGuid>d83f4cd3-d9c1-4aab-8955-11d42187f723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/profil/860932/detail/edit</value>
+      <webElementGuid>6f35fd43-ef84-4a00-b58b-f9f1a7f4d1d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Profil</value>
+      <webElementGuid>64f5062e-29d7-48d8-a118-ca6744994402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-sz99ry&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;chakra-stack css-1hqazne&quot;]/div[@class=&quot;css-rslbfv&quot;]/a[@class=&quot;chakra-link css-1pwr2bt&quot;]</value>
+      <webElementGuid>20ecc145-5d23-4827-8439-dbd4f88d248d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[2]/div[2]/div[2]/a</value>
+      <webElementGuid>2da97dcc-6005-4cbd-903f-d81982f8e83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Edit Profil')]</value>
+      <webElementGuid>1619d654-4d40-466b-9d99-cbb4d7253162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Profil'])[1]/following::a[7]</value>
+      <webElementGuid>e25fefe6-9cce-45a7-9b92-44f49dc9cd51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua'])[1]/following::a[8]</value>
+      <webElementGuid>92ae520a-1fdf-48c1-b62e-e49ebed175fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Profil']/parent::*</value>
+      <webElementGuid>f2f02a5d-84e6-409b-9fdd-fc43d68be0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/profil/860932/detail/edit')]</value>
+      <webElementGuid>51e3bf79-524b-45ba-aa90-d1c72bfae5da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>2831533f-7c92-4130-9ebd-8b87277043bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/profil/860932/detail/edit' and (text() = 'Edit Profil' or . = 'Edit Profil')]</value>
+      <webElementGuid>1d9da068-d99e-4dee-b8d3-205787c822bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
